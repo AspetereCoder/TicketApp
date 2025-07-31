@@ -62,8 +62,8 @@ Certifique-se de que você tem instalado:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <link_repo>
-    cd <nome_repo>
+    git clone https://github.com/AspetereCoder/TicketApp.git
+    cd TicketApp
     ```
 
 2.  **Configure o Banco de Dados:**
